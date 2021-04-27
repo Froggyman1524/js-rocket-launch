@@ -1,0 +1,12 @@
+body{
+	background-color: green;
+	text-align: center;
+}
+button{
+ padding: 14px 40px;
+ background-color: #f44336; /* Red */
+ border: 2px solid black;
+ border-radius: 150px;
+ position: relative;
+ top: 250px;
+}
